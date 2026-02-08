@@ -1,0 +1,16 @@
+{
+  "name": "@sololivetop/api",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/index.ts",
+    "lint": "eslint src --ext .ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "20.14.10",
+    "eslint": "8.57.0",
+    "typescript": "5.5.4"
+  }
+}
